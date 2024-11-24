@@ -12,9 +12,19 @@ Use otu_ids as the labels for the bar chart.
 
 Use otu_labels as the hovertext for the chart.
 
+
 Bar Chart
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/5db55fc5-d405-423f-a661-32429bd4fa2c">
+
+
+
+
+
 
 Create a bubble chart that displays each sample.
+
+<img width="635" alt="image" src="https://github.com/user-attachments/assets/c5705839-bd50-499e-8f46-0bd52e966593">
+
 
 Use otu_ids for the x values.
 
@@ -31,12 +41,21 @@ Bubble Chart
 Display the sample's metadata, i.e., an individual's demographic information.
 Loop through each key-value pair from the metadata JSON object and create a text string.
 
+<img width="635" alt="image" src="https://github.com/user-attachments/assets/c3a272ca-7320-4bb0-aec6-689699d7b980">
+
+
 Append an html tag with that text to the #sample-metadata panel.
 
 hw
 
 Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 hw
+
+![Uploading image.png…]()
+
+
+
+
 
 Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 Hints
