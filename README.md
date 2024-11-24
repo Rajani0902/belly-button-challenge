@@ -41,7 +41,8 @@ Bubble Chart
 Display the sample's metadata, i.e., an individual's demographic information.
 Loop through each key-value pair from the metadata JSON object and create a text string.
 
-<img width="635" alt="image" src="https://github.com/user-attachments/assets/c3a272ca-7320-4bb0-aec6-689699d7b980">
+<img width="201" alt="image" src="https://github.com/user-attachments/assets/384313e3-470b-487b-82f7-fd4181c55414">
+
 
 
 Append an html tag with that text to the #sample-metadata panel.
