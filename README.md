@@ -51,7 +51,8 @@ hw
 Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 hw
 
-![Uploading image.png…]()
+<img width="830" alt="image" src="https://github.com/user-attachments/assets/cbcab3a0-5596-4778-8804-7d575de0f472">
+
 
 
 
